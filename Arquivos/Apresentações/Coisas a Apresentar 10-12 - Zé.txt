@@ -1,0 +1,7 @@
+Coisas a mostrar na apresentação do dia 10/12:
+
+Sistemas que implementam ITIL - servicedesk (zabisk)
+Planilha de Riscos - FEITO
+Devops (Ferramentas de Devops e um cenário da empresa que se encaixam)
+Guardar as coisas do trabalho no GitHub
+
