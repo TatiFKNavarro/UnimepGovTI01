@@ -1,0 +1,7 @@
+Christian: 17 (Demonstração do Zabbix)
+
+Gabriel: 13 ao 16 (Características e Vantagens do Zabbix)
+
+Hugo: 7 ao 12 e 18 ao 19 (Riscos, Organização no GitHub e Finalização)
+
+Tati: 1 ao 6 (Apresentação e Ferramenta DevOps Docker)
